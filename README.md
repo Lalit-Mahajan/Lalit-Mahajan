@@ -19,8 +19,9 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lalit-Mahajan&&style=flat-square)  
   
 <br/>  
+
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="110%">
 
 - 🌱 I’m currently learning Devops tools  
   
@@ -31,7 +32,7 @@
 - ⚡ Constantly learning and adapting to new technologies. Always excited to collaborate on open-source projects and contribute to meaningful development.  
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="110%">
 
 </td></tr></table>  
 <br/>  
