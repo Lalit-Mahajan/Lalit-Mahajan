@@ -13,8 +13,12 @@
   
 
 <br/>  
+
+<br/>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lalit-Mahajan&&style=flat-square)  
-<br/>
+  
+<br/>  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
@@ -99,11 +103,7 @@
 
 <br/>  
 
-<br/>  
 
-
-  
-<br/>  
 
 <br />
 <div><p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lalit-Mahajan" alt="Lalit-Mahajan" /></a></p>
