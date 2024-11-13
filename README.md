@@ -13,7 +13,8 @@
   
 
 <br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=Lalit-Mahajan&&style=flat-square)  
+<br/>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
@@ -100,7 +101,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Lalit-Mahajan&&style=flat-square)  
+
   
 <br/>  
 
