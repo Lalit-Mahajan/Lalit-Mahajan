@@ -21,21 +21,17 @@
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="110%">
+<table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently learning Devops tools  
-  
+- 🌱 I’m currently learning DevOps tools  
 
-- ❓ Ask me about anything related to JAVA & MERN stack  and related technologies  
-  
+- ❓ Ask me about anything related to JAVA & MERN stack and related technologies  
 
 - ⚡ Constantly learning and adapting to new technologies. Always excited to collaborate on open-source projects and contribute to meaningful development.  
 
-
-</td><td valign="top" width="110%">
-
 </td></tr></table>  
-<br/>  
+<br/>
+
 
 
 ## My Skill Set  
