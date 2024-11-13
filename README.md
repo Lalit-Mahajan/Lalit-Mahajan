@@ -27,9 +27,9 @@
 - ⚡ Constantly learning and adapting to new technologies. Always excited to collaborate on open-source projects and contribute to meaningful development.  
 
 
-</td><td valign="top" width="50%">
+<td valign="top" width="50%">
 
-
+</td></tr></table>  
 <br/>  
 
 
